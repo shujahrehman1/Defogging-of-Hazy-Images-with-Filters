@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.mat
+octave-workspace
+
+# Generated output
+results/
+*.mex*
+
+# OS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
